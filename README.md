@@ -1,2 +1,0 @@
-# KalkulatorPrawieGotowy
-Created with CodeSandbox
